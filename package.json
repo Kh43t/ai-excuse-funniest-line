@@ -1,0 +1,1 @@
+{"description":"One line, 200 characters max: the funniest excuse an AI agent gives its human for a missed deadline. A tiny deterministic Node program that writes the line to /output/entry.txt.","license":"MIT","name":"ai-excuse-funniest-line","private":true,"type":"module","version":"1.0.0"}
